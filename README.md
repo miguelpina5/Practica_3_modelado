@@ -1,6 +1,6 @@
-# Práctica 3: Simulación de Robots usando Middleware
+# Práctica 3
 
-## 1. Explicación Detallada de las Gráficas
+## 1. Explicación de las Gráficas
 A continuación se describen los resultados obtenidos tras la teleoperación del robot y la ejecución de la tarea de *pick and place*.
 
 ### A. Posición de las ruedas vs Tiempo
@@ -21,7 +21,7 @@ A continuación se describen los resultados obtenidos tras la teleoperación del
 
 - La **aceleración en los ejes X e Y** oscila en torno a cero, pero presenta picos claros durante las aceleraciones del rover. El pico más marcado ocurre en la fase final, cuando el robot avanza los 10 metros de forma continua.
 
-### C. Gasto vs Tiempo (Potencia del Mecanismo)
+### C. Gasto vs Tiempo
 
 <img width="1201" height="602" alt="gasto_tiempo" src="https://github.com/user-attachments/assets/d43b18f2-afb6-4fc5-980e-40cded40053e" />
 
@@ -51,7 +51,7 @@ https://urjc-my.sharepoint.com/:f:/g/personal/ma_pina_2023_alumnos_urjc_es/IgCtL
 
 ---
 
-## 4. Imágenes de la Simulación (Gazebo)
+## 4. Imágenes de la Simulación
 ### Sujetando cubo verde en el aire
 <img width="465" height="517" alt="sujetando_cubo_verde" src="https://github.com/user-attachments/assets/e68674f6-4a7f-4ac9-b575-8158038aeca4" />
 
