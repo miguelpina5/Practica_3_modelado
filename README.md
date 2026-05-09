@@ -1,7 +1,7 @@
 # Práctica 3
 
 ## 1. Explicación de las Gráficas
-A continuación se describen los resultados obtenidos tras la teleoperación del robot y la ejecución de la tarea de *pick and place*.
+A continuación se describen los resultados obtenidos tras la teleoperación del robot y la ejecución de la tarea de pick and place.
 
 ### A. Posición de las ruedas vs Tiempo
 <img width="1201" height="602" alt="ruedas_tiempo" src="https://github.com/user-attachments/assets/e1c7d3bb-583e-4859-93d1-45cea65b033c" />
